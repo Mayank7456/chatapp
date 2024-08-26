@@ -27,13 +27,13 @@ To run this project locally, follow these steps:
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/mayank7456/chatapp-website.git
+    git clone https://github.com/mayank7456/chatapp.git
     ```
 
 2. **Navigate to the project directory:**
 
     ```bash
-    cd chatapp-website
+    cd chatapp
     ```
 
 3. **Install dependencies:**

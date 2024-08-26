@@ -17,7 +17,8 @@ This repository contains the source code for a ChatApp website built with React.
 - **Custom Fonts:** Google Fonts are used for a modern and cohesive look.
 
 ## Demo
-- **Live Demo:** live
+- **Live Demo:**
+- https://mayank7456.github.io/chatapp/
 
 ## Installation
 
